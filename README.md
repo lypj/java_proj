@@ -1,1 +1,1 @@
-"# java_proj" 
+A Java Desktop Application
